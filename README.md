@@ -8,3 +8,5 @@
 在pycharm左上角File->Settings  选择Python Interpreter   安装pyinstaller         
 6.在terminal端运行 pyinstaller -F -w main.py          
 
+# 运行效果
+![image](https://github.com/Bistu-OSSDT-2024/1-open-source/assets/173148466/9b9e73a9-2cdb-4e68-be4d-1f503951f98b)
