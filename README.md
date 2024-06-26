@@ -1,7 +1,7 @@
 # open-source
-1.先安装python解释器；    
-2.安装pycharm社区版；     
-3.cmd中安装智普大模型；      
+1.先安装Python解释器；    
+2.安装PyCharm社区版；     
+3.cmd中安装智谱大模型；      
 在cmd中粘贴      pip install --upgrade zhipuai       
 4.在pycharm中运行代码        
 5.生成可执行文件.exe            
